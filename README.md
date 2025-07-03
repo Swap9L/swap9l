@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hey there, I'm  Swapnil 🐱‍👤
 
-##  About Me: 
 Just trying find my way around the internet, a full stack dev experienced in MERN and NEXT.js. I enjoy building I'm actively working on projects and open to contribute to cool projects as well as boring stuff as long as it worth something to someone.<br><br> Maxing out Aura. 🌱<br><br>Feel free to connect with me or check out my projects! <br><br>
 
 
