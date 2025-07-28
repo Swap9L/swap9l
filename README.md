@@ -32,10 +32,10 @@ Just trying find my way around the internet, a full stack dev experienced in MER
 
 
 ![Hit Counter](https://komarev.com/ghpvc/?username=swap9l&color=756A5B&style=for-the-badge&label=views) 
-[![Wakatime Hours Badge](https://wakatime.com/badge/user/73dd467b-b15e-4bd9-880c-e4bf11eaf6d9.svg?style=for-the-badge)](https://wakatime.com/@swap9l)
+<!-- [![Wakatime Hours Badge](https://wakatime.com/badge/user/44c01904-f578-4a82-bbf0-78f335a05abb.svg?style=for-the-badge) ](https://wakatime.com/@swap9l) -->
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=swap9l&theme=radical&hide_border=false)<br/>
+<!--## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=swap9l&theme=radical&hide_border=false)<br/>  -->
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=swap9l&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
